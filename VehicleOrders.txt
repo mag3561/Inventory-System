@@ -1,0 +1,91 @@
+Truck     
+        Model: asdf                
+        Color: dfgh      
+         Cost: 3541534.00
+      MPG/GPH: -138.19   
+         Load: Full-Ton       
+       Engine: 1500           
+Car       
+        Model: hdfgh               
+        Color: rtyur     
+         Cost: 135843.00 
+      MPG/GPH: 22.20     
+         Type: Coupe          
+       Towing: Towing package 
+Boat      
+        Model: dfghdf              
+        Color: rtuktyu   
+         Cost: 16354534.00
+      MPG/GPH: 2.20      
+         Type: PWC            
+      Made Of: Steel          
+Moped     
+        Model: jtyujty             
+        Color: erthe     
+         Cost: 354634.00 
+      MPG/GPH: 90.80     
+   Moped size: Sport          
+       Engine: 250            
+Car       
+        Model: camry               
+        Color: white     
+         Cost: 1255.00   
+      MPG/GPH: 19.20     
+         Type: Coupe          
+       Towing: No towing package
+Boat      
+        Model: Star craft          
+        Color: blue      
+         Cost: 1355.00   
+      MPG/GPH: 2.20      
+         Type: PWC            
+      Made Of: FiberGlass     
+Helicopter
+        Model: asdf                
+        Color: asdf      
+         Cost: 23456.00  
+      MPG/GPH: 7.20      
+ 	     Rotor: Tandem Rotor
+	      Role: Utility
+Helicopter
+        Model: khjklj              
+        Color: khklh     
+         Cost: 43543.00  
+      MPG/GPH: 7.20      
+ 	     Rotor: No Tail Rotor
+	      Role: Transport
+Helicopter
+        Model: jlkjjkl             
+        Color: klhklh    
+         Cost: 9789087.00
+      MPG/GPH: 7.20      
+ 	     Rotor: Tandem Rotor
+	      Role: Utility
+Helicopter
+        Model: sdl;fja             
+        Color: asdf      
+         Cost: 3804953.00
+      MPG/GPH: 7.20      
+ 	     Rotor: Tandem Rotor
+	      Role: Utility
+Helicopter
+        Model: asdfasd             
+        Color: asdfl;kajsd
+         Cost: 4354354.00
+      MPG/GPH: 7.20      
+ 	     Rotor: Tandem Rotor
+	      Role: Transport
+Moped     
+        Model: asdfas              
+        Color: sdas      
+         Cost: 540568405.00
+      MPG/GPH: 150.50    
+   Moped size: Sport          
+       Engine: 50             
+Helicopter
+        Model: asdfa               
+        Color: asdfa     
+         Cost: 3456345.00
+      MPG/GPH: 7.20      
+ 	     Rotor: No Tail Rotor
+	      Role: Transport
